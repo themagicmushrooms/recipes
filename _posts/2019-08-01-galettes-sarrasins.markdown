@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Galettes Sarrasin / Blé Noir"
-date:   2019-08-01
-categories: recipes
+date:   2019-08-01 22:32:00 +0200
 tags: salted sweet
 ---
 
@@ -14,9 +13,7 @@ Pour 6-8 galettes de sarrasin.
 - 320mL d'eau (à température ambiante si possible)
 - sel
 
-### Procédure
-
-#### Faire la pâte
+### Préparation
 
 - Mettre 125g de farine de sarrasin
 - Mettre une pincée de sel
@@ -24,10 +21,16 @@ Pour 6-8 galettes de sarrasin.
 - Mélanger la pâte, épaisse pour casser les éventuels grumeaux
 - Ajouter 120mL d'eau
 
-#### Cuire la pâte
+### Cuisson
 
 - Pré-huiler la poèle si elle a tendance à accrocher
 - *Bien* pré-chauffer la poèle sur la plaque à induction sur 8
 - Bien attendre que la crèpe commence à sécher pour qu'elle se décolle
 - La retourner pour cuire (pas longtemps l'autre coté)
 - Enchaîner
+
+### Autres
+
+Idées :
+- mettre du cumin comme les appalams -> pas mal
+- de la coriandre en poudre -> pas top
