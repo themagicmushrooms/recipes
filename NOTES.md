@@ -17,3 +17,23 @@ Run with
 ~~~
 bundle exec jekyll serve
 ~~~
+
+
+Lol, changing the theme on github (with their UI), changes the _config.yml file but not the Gemfile, so:
+
+~~~
+In Gemfile
+
+-gem "minima", "~> 2.0"
++gem "jekyll-theme-tactile"
+~~~
+
+and update the theme (or more), with
+
+~~~
+bundle install
+bundle exec jekyll serve
+~~~
+
+-> we get a blank page, like on github
+
