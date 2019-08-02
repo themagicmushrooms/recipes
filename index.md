@@ -4,3 +4,8 @@
 
 layout: home
 ---
+Bienvenue !
+
+{{site.description}}
+
+Voir [les sources de ce site sur github.](https://github.com/themagicmushrooms/recipes/)
