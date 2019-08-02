@@ -1,8 +1,14 @@
 <!-- styling, just for a better local live preview -->
 <link rel="stylesheet" href="https://unpkg.com/picnic">
+<style>body { margin: 2em; }</style>
 
+## Yummy recipes
 
-Created with, based on <https://jekyllrb.com/>:
+View the site <https://themagicmushrooms.github.io/recipes/>
+
+## Build etc
+
+### Created with, based on <https://jekyllrb.com/>:
 
 ~~~
 sudo gem install bundler jekyll
@@ -12,14 +18,26 @@ cd recipes
 bundle install --path vendor/bundle
 ~~~
 
-Run with
+Then pushed on github, set master as the github-pages branch (on github, in repo settings).
+
+### Run with
 
 ~~~
 bundle exec jekyll serve -l
 ~~~
-The `-l` is for livereload, which is very convenient (the browser refreshes automatically).
 
+The **`-l` is for livereload, which is very convenient** (the browser refreshes automatically).
 
+### Github showing unstyled thing
+
+In `_config.yml`
+
+~~~
+baseurl: "/recipes"
+~~~
+to correspond to the fact that the site is hosted on `https://....../recipes`
+
+### Changing theme...
 
 Lol, changing the theme on github (with their UI), changes the _config.yml file but not the Gemfile, so:
 
@@ -38,4 +56,5 @@ bundle exec jekyll serve
 ~~~
 
 -> we get a blank page, like on github
+so we switch back to minima
 
