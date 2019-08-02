@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Galettes Sarrasin / Blé Noir"
+title:  "Galettes de sarrasin (blé Noir)"
 date:   2019-08-01 22:32:00 +0200
 tags: salted sweet
 ---
