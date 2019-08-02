@@ -15,8 +15,10 @@ bundle install --path vendor/bundle
 Run with
 
 ~~~
-bundle exec jekyll serve
+bundle exec jekyll serve -l
 ~~~
+The `-l` is for livereload, which is very convenient (the browser refreshes automatically).
+
 
 
 Lol, changing the theme on github (with their UI), changes the _config.yml file but not the Gemfile, so:
