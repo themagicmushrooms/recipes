@@ -21,3 +21,7 @@ La sauce satay revisitée en version Whole Food Plant Based.
 ### Préparation
 
 Il faut faire revenir oignon + ail dans une poêle, puis ajouter tout le reste sauf le citron et faire mijoter 5/10 minutes, + jus de citron à la fin.
+
+### Autre
+
+Top pour faire une sauce pour le tempeh.
