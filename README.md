@@ -58,3 +58,13 @@ bundle exec jekyll serve
 -> we get a blank page, like on github
 so we switch back to minima
 
+
+## Generating an epub
+
+~~~
+pandoc https://themagicmushrooms.github.io/recipes/aio -o food-good.epub
+# @send food-good.epub
+~~~
+
+also available at https://dl.heeere.com/food-good.epub
+
