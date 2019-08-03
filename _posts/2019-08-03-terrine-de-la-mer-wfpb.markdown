@@ -15,16 +15,16 @@ Une terrine de la mer aux algues.
 * 60cl d'eau
 * 2g d'agar agar
 * 200g de tofu
-* un peu d'algues wakamé re-hydratées
+* un peu d'algues wakamé réhydratées
 * 1 c.s de sauce soja
 * Poivre
 
 ### Préparation
 
-Cuire 5 minutes à la poêle les oignons coupés en petit morceaux (saler un peu), réserver.
-Cuire 5 minutes à la poêle les carottes coupées en petit morceaux (saler un peu), réserver.
+Cuire 5 minutes à la poêle les oignons coupés en petits morceaux (saler un peu), réserver.
+Cuire 5 minutes à la poêle les carottes coupées en petits morceaux (saler un peu), réserver.
 Mixer le tofu, les algues, le bouillon (poudre + eau), l'agar agar et l'oignon cuit.
-Mélanger dans un saladier avec les carottes cuites. Réctifier l'asaisonement.
+Mélanger dans un saladier avec les carottes cuites. Rectifier l'assaisonnement.
 
 ### Cuisson
 
