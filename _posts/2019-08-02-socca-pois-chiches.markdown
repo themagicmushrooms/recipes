@@ -16,8 +16,8 @@ Ici elle est cuite à la poêle et non au four, parce que c'est plus simple et p
 * 1 c.s. d'huile d'olive
 * 1 gousse d'ail pressée au presse-ail
 * Romarin ou autre herbe de provence
+* petite 1/2 c.c. de sel
 * Poivre
-* Sel
 
 ### Préparation
 
