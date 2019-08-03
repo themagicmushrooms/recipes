@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crumbl pommes & fruits rouges, WFPB"
+title:  "Crumble pommes & fruits rouges, WFPB"
 date:   2019-08-03 10:14:00 +0200
 tags: sweet
 ---
