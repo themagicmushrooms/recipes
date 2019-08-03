@@ -2,7 +2,7 @@
 layout: post
 title:  "Crumble pommes & fruits rouges, WFPB"
 date:   2019-08-03 10:14:00 +0200
-tags: sweet
+tags: sweet wfpb
 ---
 
 Un crumble revisité en version Whole Food Plant Based.
