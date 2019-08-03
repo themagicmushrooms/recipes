@@ -2,7 +2,7 @@
 layout: post
 title:  "Galettes de sarrasin (blé Noir)"
 date:   2019-08-01 22:32:00 +0200
-tags: salted sweet
+tags: salted sweet wfpb
 ---
 
 Pour 6-8 galettes de sarrasin.
