@@ -21,7 +21,7 @@ Fruits :
 
 ### Préparation
 
-Fruits : pré-cuire dans une casserolle. Les pommes doivent devenir rouges.
+Fruits : pré-cuire dans une casserole. Les pommes doivent devenir rouges.
 Pâte : mélanger tous les ingrédients jusqu'à obtenir des grumeaux de pâte.
 
 ### Cuisson
