@@ -1,0 +1,11 @@
+
+{%- if include.href -%}
+<a class="post-intro" href="{{include.href}}">
+{%- else -%}
+<a class="post-intro">
+{%- endif -%}
+  <img src="{{include.o.image}}" alt="thumbnail" title="Image de {{include.o.title}}"/>
+  <p>
+    {{include.o.short}}
+  </p>
+</a>

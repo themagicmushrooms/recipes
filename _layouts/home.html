@@ -21,8 +21,13 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        {%- if post.image -%}
+          {% assign href = post.url | relative_url %}
+          {% include intro.html o=post href=href %}
+        {%- else -%}
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
         {%- endif -%}
       </li>
       {%- endfor -%}

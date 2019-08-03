@@ -3,6 +3,8 @@ layout: post
 title:  "Galettes de sarrasin (blé Noir)"
 date:   2019-08-01 22:32:00 +0200
 tags: salted sweet wfpb
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GaletteCidre.JPG/256px-GaletteCidre.JPG
+short: Les galettes de sarrasin (sans beurre).
 ---
 
 Pour 6-8 galettes de sarrasin.

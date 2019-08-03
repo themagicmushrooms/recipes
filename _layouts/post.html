@@ -16,6 +16,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.image -%}
+    {% include intro.html o=page %}
+    {%- endif -%}
     {{ content }}
   </div>
 
