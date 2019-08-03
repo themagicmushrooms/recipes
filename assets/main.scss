@@ -14,6 +14,14 @@
   font-size: 1.35em;
 
   img {
+    &[src=''] {
+      height: 6em;
+      &::after {
+        font-size: 0.5em;
+        display: block;
+        content: '   (image à ajouter)';
+      }
+    }
     max-width: 256px;
     vertical-align: top;
     float: left;
