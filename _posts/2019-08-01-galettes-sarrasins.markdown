@@ -11,12 +11,10 @@ Pour 6-8 galettes de sarrasin.
 
 - 125g de farine de sarrasin
 - 320mL d'eau (à température ambiante si possible)
-- sel
 
 ### Préparation
 
 - Mettre 125g de farine de sarrasin
-- Mettre une pincée de sel
 - Mettre 200mL d'eau
 - Mélanger la pâte, épaisse pour casser les éventuels grumeaux
 - Ajouter 120mL d'eau
