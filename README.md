@@ -68,3 +68,11 @@ pandoc https://themagicmushrooms.github.io/recipes/aio -o food-good.epub
 
 also available at https://dl.heeere.com/food-good.epub
 
+
+## Importing images
+
+~~~
+# e.g.
+convert '/home/.../DSC_0701.JPG' -resize 512 assets/tempeh-marine-saucisses.jpg
+~~~
+
