@@ -1,10 +1,16 @@
 
+{%- if include.o.image contains "//" -%}
+{%- assign imUrl = include.o.image -%}
+{%- else -%}
+{%- assign imUrl = {{site.baseurl}} | append: "/assets/" | append: include.o.image -%}
+{%- endif -%}
+
 {%- if include.href -%}
 <a class="post-intro" href="{{include.href}}">
 {%- else -%}
 <a class="post-intro">
 {%- endif -%}
-  <img src="{{include.o.image}}" alt="{{include.o.title}}" title="Image de {{include.o.title}}"/>
+  <img src="{{imUrl}}" alt="{{include.o.title}}" title="Image de {{include.o.title}}"/>
   <p>
     {{include.o.short}}
   </p>

@@ -3,9 +3,10 @@ layout: post
 title:  "Socca de farine de pois chiches à la poêle"
 date:   2019-08-02 20:47:57 +0200
 tags: salted wfpb
+image: socca-champignons.jpg
+short: La Socca de Nice (ou Farinata en Italie) est une galette de farine de pois chiches.
 ---
 
-La Socca de Nice (ou Farinata en Italie) est une galette de farine de pois chiches.
 Très bon avec une salade ou en apéro.
 Ici elle est cuite à la poêle et non au four, parce que c'est plus simple et plus rapide.
 
