@@ -32,7 +32,7 @@ La recette d'origine n'est pas encore écrite, mais voici une des évolutions (d
 
 ### Cuisson
 
-À voir si les détails sont utiles, mais il faut éviter de le bruler.
+À voir si les détails sont utiles, mais il faut éviter de le brûler.
 
 - cuire pendant 20 minutes à 190°C
 - réduire un peu à 170°C
