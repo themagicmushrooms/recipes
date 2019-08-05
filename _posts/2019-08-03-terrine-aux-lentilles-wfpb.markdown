@@ -10,14 +10,13 @@ Une terrine aux lentilles Whole Food Plant Based.
 ### Ingrédients
 
 * 200g de lentilles sèches
-* 200g de tofu nature
+* 200g de tofu nature (todo : essayer avec de l'okara de soja)
 * 1 échalotte
 * 2 feuilles de laurier
 * 2 à 3 c.s. de sauce soja (à ajuster selon le goût)
 * 2 gousses d'ail à écraser au presse-ail
 * environ 8 tomates séchées
 * 1 c.c. de romarin ou thym ou herbes de provence
-* 1 c.c. de vodka zubrowka
 * 1 petite c.c. piment d’espelette ou 1 c.c. de paprika
 * Poivre
 
