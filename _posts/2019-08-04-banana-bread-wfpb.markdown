@@ -2,7 +2,7 @@
 layout: post
 title:  "Banana bread WFDB"
 date:   2019-08-04 17:30:57 +0200
-tags: sweet wfpb
+tags: sweet wfpb ♥
 image: banana-bread-levure.jpg
 short: Le banana bread, en version Whole Food Plant Based.
 ---
