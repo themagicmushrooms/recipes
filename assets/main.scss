@@ -41,4 +41,17 @@
     }
   }
 
+  .onlyselected & {
+      p { display: none; }
+  }
+
+}
+.onlyselected .post-list li {
+    &>span:first-of-type { display: none; }
+    width: 150px;
+    display: inline-block;
+    h3 a {
+        display: none;
+        font-size: 66%;
+    }
 }
