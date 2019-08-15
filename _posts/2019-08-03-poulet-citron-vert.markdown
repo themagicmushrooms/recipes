@@ -3,11 +3,12 @@ layout: post
 title: "Poulet citron épices"
 date:   2019-08-03 21:33:00 +0200
 tags: salted
-image: ""
+image: chich-taouk.jpg
+attribution: Wikipedia User:Basel15
 short: L'émincé de poulet à la libanaise, mariné au citron vert et aux épices.
 ---
 
-Une sorte de Shawarma de poulet, mais pas vraiment.
+Une sorte chich taouk de poulet, mais pas vraiment.
 
 Idée à venir : le tempeh à la libanaise :p
 
