@@ -5,6 +5,8 @@ date:   2019-08-19 20:13 +0200
 tags: salted wfpb
 ---
 
+« Légumineuse Bonnesoupe »
+
 ### Ingrédients
 
 * 200g de pois cassés
