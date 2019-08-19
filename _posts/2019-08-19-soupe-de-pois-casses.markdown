@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soupe de pois cassés"
-date:   2019-08-03 14:07:00 +0200
+date:   2019-08-19 20:13 +0200
 tags: salted wfpb
 ---
 
