@@ -2,7 +2,9 @@
 layout: post
 title:  "Frites au four sans huile"
 date:   2019-08-03 14:07:00 +0200
-tags: salted wfpb
+tags: salted wfpb ♥
+image: frites.jpg
+short: "Frites au four sans huile"
 ---
 
 ### Ingrédients
