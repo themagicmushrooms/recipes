@@ -30,9 +30,9 @@ Cuire les légumes.
 Mélanger tous les ingrédients.
 Remplir les pots.
 
-### Cuisson (fausse stérélisation)
+### Cuisson (fausse stérilisation)
 
-Faire bouillir les pots pendant environ 10 minutes dans une casserolle ou à la cocotte.
+Faire bouillir les pots pendant environ 10 minutes dans une casserole ou à la cocotte.
 
 ### Autre
 
