@@ -23,6 +23,8 @@ short: Le banana bread, en version Whole Food Plant Based.
 - écraser les bananes dans un saladier
 - ajouter la farine et les autres ingrédients, bien mélanger
 - ajouter de l'eau pour rendre la pâte un peu liquide comme une pâte à gateau
+- si le chocolat est une tablette (et non déjà des pépites), le couper au couteau
+- ajouter le chocolat et mélanger
 - verser dans un moule à cake (ou autre sinon)
 
 ### Cuisson
