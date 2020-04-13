@@ -23,6 +23,8 @@ Then pushed on github, set master as the github-pages branch (on github, in repo
 ### Run with
 
 ~~~
+#rm -rf vendor/
+#bundle install --path vendor/bundle
 bundle exec jekyll serve -l
 ~~~
 
