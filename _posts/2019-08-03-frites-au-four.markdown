@@ -26,4 +26,5 @@ Manger rapidement, ce n'est pas très bon une fois refroidi.
 
 ### Autre
 
-Très bon avec du houmous.
+Très bon avec du houmous
+ou du [« tartare »]({{site.baseurl}}{% post_url 2020-04-18-tartare-pois-chiche %}).
