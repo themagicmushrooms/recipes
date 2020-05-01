@@ -14,7 +14,7 @@ Une variante de la [v1 aux pois chiches]({{site.baseurl}}{% post_url 2020-04-18-
 
 Pour environ 2 bons mangeurs :
 
-* 300g de pois chiche (les notres sont non salés)
+* 300g de haricots rouges (les notres sont non salés)
 * 1 oignon (nouveau, avec le vert, si possible)
 * 2 cc4 (2×15mL) de graînes de lin
 * 125g de « [Öncü](https://fr.openfoodfacts.org/produit/8693891196185/öncü-antep-paprikamark-mild) » (purée de poivron, salée à 4g/100g, que l'on trouve au rayon import de notre intermarché, mais cela peut être remplacé probablement du concentré de tomate ou autre)
@@ -33,14 +33,14 @@ Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-fou
 
 Important :
 - on vise un mélange final vers 1g (ou un peu plus) de sel pour 100g,
-- selon que vos pois chiche sont salé ou non, ou que vous remplacez le « öncü » par autre chose, il faut faire un calcul et adapter,
+- selon que vos haricots sont salé ou non, ou que vous remplacez le « öncü » par autre chose, il faut faire un calcul et adapter,
 - ci-dessus, on a environ 400g de préparation de base, du coup en ajoutant 125g d'öncü on a 5g de sel pour 525g de produit, à la louche 1g/100g
 - cela dépend aussi de avec quoi vous le mangez
 
 Instructions :
 
 - Couper l'oignon
-- Mixer oignon et pois chiche, et mettre dans un grand saladier
+- Mixer oignon et les haricots rouges, et mettre dans un grand saladier
 - Dans un bol mélanger tout le reste (lin, liquides, épices, öncü)
 - Verser ce bol dans le saladier et mélanger tout ça
 
