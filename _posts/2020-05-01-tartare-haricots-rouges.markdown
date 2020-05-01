@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Tartare Improvisé v1"
-date:   2020-04-18 13:31:00 +0200
+title:  "Tartare Improvisé v2"
+date:   2020-05-01 13:01:00 +0200
 tags: salted wfpb ♥
-image: tartare-frites-salade.jpg
-short: "Une sorte de tartare de pois chiche."
+image: tartare-pain-salade.jpg
+short: "Le tartare mais au haricots rouges."
 ---
 
-Voir aussi une variante, la [v2 aux haricots rouges]({{site.baseurl}}{% post_url 2020-05-01-tartare-haricots-rouges %}).
+Une variante de la [v1 aux pois chiches]({{site.baseurl}}{% post_url 2020-04-18-tartare-pois-chiche %})
+(les épices sont un peu différentes aussi).
 
 ### Ingrédients
 
@@ -16,15 +17,15 @@ Pour environ 2 bons mangeurs :
 * 300g de pois chiche (les notres sont non salés)
 * 1 oignon (nouveau, avec le vert, si possible)
 * 2 cc4 (2×15mL) de graînes de lin
-* 2 cc4 d'huile
-* 2 cc4 de vin rouge
 * 125g de « [Öncü](https://fr.openfoodfacts.org/produit/8693891196185/öncü-antep-paprikamark-mild) » (purée de poivron, salée à 4g/100g, que l'on trouve au rayon import de notre intermarché, mais cela peut être remplacé probablement du concentré de tomate ou autre)
 * épices (possibilité de varier)
-  * 1 cc1 (1×1mL) de paprika (parceque le notre pique beaucoup)
+  * .75 cc1 (0.75×1mL) de paprika (parceque le notre pique beaucoup)
   * 1 cc1 de poivre moulu
-  * 2 cc1 thym
   * 2 cc1 cumin
-  * 1 cc1 origan
+  * 2 cc1 romarin
+* 2 cc4 d'huile
+* 2 cc4 de vin rouge
+* 50g de capres (1/2 pot)
 
 Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-four %}).
 
@@ -43,11 +44,7 @@ Instructions :
 - Dans un bol mélanger tout le reste (lin, liquides, épices, öncü)
 - Verser ce bol dans le saladier et mélanger tout ça
 
-Quelques photos :
+Les câpres avec les beans et l'oignon, prêts à être hachés :
 
-![Les pois chiche et un gros oignon](/recipes/assets/pois-chiche-oignon.jpg)
-
-![Tous les ingrédients](/recipes/assets/tartare-tous-ingredients.jpg)
-
-![On mélange](/recipes/assets/tartare-melange.jpg)
+![Les haricots, l'oignon et les câpres](/recipes/assets/tartare-ingredients-beans.jpg)
 
