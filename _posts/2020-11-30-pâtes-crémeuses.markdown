@@ -3,6 +3,7 @@ layout: post
 title:  "Pâtes crémeuses"
 date:   2020-11-30 19:39:00 +0200
 tags: salted wfpb ♥
+image: pates-cremeuses.jpg
 short: "Pâtes crémeuses"
 ---
 

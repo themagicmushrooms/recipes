@@ -2,7 +2,9 @@
 layout: post
 title:  "Poudre d'épices"
 date:   2019-08-03 13:28:00 +0200
-tags: 
+tags: wfpb ♥
+image: poudre-epices.jpg
+short: "La poudre magique."
 ---
 
 Une poudre d'épices à mettre dans diverses choses, selon les goûts.
