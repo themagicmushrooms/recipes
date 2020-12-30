@@ -14,10 +14,11 @@ Conçue pour équilibrer les bonnes choses.
 - 3 cc de gingembre (poudre)
 - 3 cc de romarin (du balcon, séché à l'avance)
 - 3 cc de grains de poivres
+- (optionnel) 3 cc de graines de nigelle (dit cumin noir)
 
 ### Préparation
 
-Dans un moulin, mixer le romarin et les grains de poivre.
+Dans un moulin, mixer le romarin et les grains de poivre (et les graînes de nigelle).
 Tout mélanger ensemble.
 
 ### Utilisation
