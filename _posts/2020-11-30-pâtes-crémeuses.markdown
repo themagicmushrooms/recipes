@@ -11,9 +11,9 @@ short: "Pâtes crémeuses"
 
 * 200g de pâtes complètes sèches
 * 1/2 pot de yaourt de soja (Sojade So soja nature)
-* 4 c.s levure maltée
-* 2 c.s moutarde
-* 1 c.c bouillon poudre
+* 2 c.s levure maltée
+* 1 c.s moutarde
+* 1 c.s de sauce soja
 * Poivre
 
 ### Préparation
