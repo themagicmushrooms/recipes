@@ -11,7 +11,7 @@ short: "Frites au four sans huile"
 
 * Pommes de terre bio
 * Sel
-* 1 c.c Curcurma (ou piment d'espelette, ail, romarin...)
+* 1 c.c Curcurma (ou [poudre d'épice]({{site.baseurl}}{% post_url 2019-08-03-poudre-d-epices %}). ou piment d'espelette, ail, romarin...)
 
 ### Préparation
 
