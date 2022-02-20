@@ -3,7 +3,7 @@ layout: post
 title:  "Pseudo-fromage pour pates et autres"
 date:   2022-02-19 14:00:00 +0100
 tags: salted wfpb ♥
-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Raclette_20190720_1335.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Raclette_20190720_1335.jpg/640px-Raclette_20190720_1335.jpg
 short: "Du gras-salé pour mettre avec des pates."
 ---
 
