@@ -7,7 +7,7 @@ image: banana-bread-levure.jpg
 short: Un banana bread au sarrasin, sans sucre.
 ---
 
-(voir aussi, [la version WFPB]({{site.baseurl}}{% post_url 2019-08-04-banana-bread-wfpb %}).)
+(voir aussi, [la version WFPB]({% post_url 2019-08-04-banana-bread-wfpb %}).)
 
 Une des évolutions de la recette de banana bread, avec du sarrasin et des pommes séchés (comme sucre).
 

@@ -21,7 +21,7 @@ Des exploration de gras-salé pour mettre avec des pates.
 
 ### Objectif Raclette − Ingrédients
 
-En exploraition, inspiré entre autre de <https://www.youtube.com/watch?v=JOznUZd4TN4>.
+En exploration, inspiré entre autre de <https://www.youtube.com/watch?v=JOznUZd4TN4>.
 
 * 75g de pate de cajou (ou alors faire bouillir 50g de cajou etc)
 * 200 mL d'eau
@@ -37,5 +37,5 @@ En exploraition, inspiré entre autre de <https://www.youtube.com/watch?v=JOznUZ
 
 #### Préparation
 
-On passe tout au mixer ou blender et on fait ruduire à la casserole.
+On passe tout au mixer ou blender et on fait réduire à la casserole.
 

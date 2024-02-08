@@ -20,7 +20,7 @@ Conçue pour équilibrer les bonnes choses.
 
 ### Préparation
 
-Dans un moulin, mixer le romarin et les grains de poivre (et les graînes de nigelle).
+Dans un moulin, mixer le romarin et les grains de poivre (et les graines de nigelle).
 Tout mélanger ensemble.
 
 ### Utilisation

@@ -11,7 +11,7 @@ Rien d'extraordinaire mais quand on fait en masse, il vaut mieux une idée des p
 
 ### Ingrédients
 
-* 500g de pois chiche (non salés, fraichement cuits)
+* 500g de pois chiche (non salés, fraîchement cuits)
 * 1 pot (~280g) de beans (blanc ou rouge)
 * 2 citrons
 * 1 cc1 + 1 cc2 de sel (3.5mL)

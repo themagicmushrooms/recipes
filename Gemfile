@@ -8,12 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.1"
+gem "jekyll", "~> 4.3.3"
 
 #gem "kramdown-parser-gfm"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+gem "minima", "~> 2.5.1"
 
 
 # or else I get:
@@ -22,7 +22,7 @@ gem "minima", "~> 2.0"
 # gem uninstall eventmachine
 # change this current file
 # bundle-2.7 install
-gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+#gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -30,7 +30,7 @@ gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.16"
+  gem "jekyll-feed", "~> 0.17"
 end
 
 ## Windows does not include zoneinfo files, so bundle the tzinfo-data gem

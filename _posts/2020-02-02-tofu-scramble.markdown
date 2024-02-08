@@ -22,7 +22,7 @@ Pour deux personnes
 
 ### Préparation et Cuisson
 
-Couper l'oignon en petit morceaux et les mettres dans une poêle.
+Couper l'oignon en petit morceaux et les mettre dans une poêle.
 Couper et ajouter les champignons (en lamelles par exemple) et mettre à feu assez fort.
 Ajouter la poudre de bouillon.
 

@@ -7,26 +7,26 @@ image: tartare-frites-salade.jpg
 short: "Une sorte de tartare de pois chiche."
 ---
 
-Voir aussi une variante, la [v2 aux haricots rouges]({{site.baseurl}}{% post_url 2020-05-01-tartare-haricots-rouges %}).
+Voir aussi une variante, la [v2 aux haricots rouges]({% post_url 2020-05-01-tartare-haricots-rouges %}).
 
 ### Ingrédients
 
 Pour environ 2 bons mangeurs :
 
-* 300g de pois chiche (les notres sont non salés)
+* 300g de pois chiche (les nêtres sont non salés)
 * 1 oignon (nouveau, avec le vert, si possible)
-* 2 cc4 (2×15mL) de graînes de lin
+* 2 cc4 (2×15mL) de graines de lin
 * 2 cc4 d'huile
 * 2 cc4 de vin rouge
 * 125g de « [Öncü](https://fr.openfoodfacts.org/produit/8693891196185/öncü-antep-paprikamark-mild) » (purée de poivron, salée à 4g/100g, que l'on trouve au rayon import de notre intermarché, mais cela peut être remplacé probablement du concentré de tomate ou autre)
 * épices (possibilité de varier)
-  * 1 cc1 (1×1mL) de paprika (parceque le notre pique beaucoup)
+  * 1 cc1 (1×1mL) de paprika (parce que le notre pique beaucoup)
   * 1 cc1 de poivre moulu
   * 2 cc1 thym
   * 2 cc1 cumin
   * 1 cc1 origan
 
-Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-four %}).
+Très bon avec des [frites]({% post_url 2019-08-03-frites-au-four %}).
 
 ### Préparation
 

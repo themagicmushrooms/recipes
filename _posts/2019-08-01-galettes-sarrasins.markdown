@@ -23,9 +23,9 @@ Pour 6-8 galettes de sarrasin.
 
 ### Cuisson
 
-- Pré-huiler la poèle si elle a tendance à accrocher
-- *Bien* pré-chauffer la poèle sur la plaque à induction sur 8
-- Bien attendre que la crèpe commence à sécher pour qu'elle se décolle
+- Pré-huiler la poêle si elle a tendance à accrocher
+- *Bien* pré-chauffer la poêle sur la plaque à induction sur 8
+- Bien attendre que la crêpe commence à sécher pour qu'elle se décolle
 - La retourner pour cuire (pas longtemps l'autre coté)
 - Enchaîner
 

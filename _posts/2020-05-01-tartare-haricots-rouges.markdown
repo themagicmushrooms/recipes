@@ -7,27 +7,27 @@ image: tartare-pain-salade.jpg
 short: "Le tartare mais au haricots rouges."
 ---
 
-Une variante de la [v1 aux pois chiches]({{site.baseurl}}{% post_url 2020-04-18-tartare-pois-chiche %})
+Une variante de la [v1 aux pois chiches]({% post_url 2020-04-18-tartare-pois-chiche %})
 (les épices sont un peu différentes aussi).
 
 ### Ingrédients
 
 Pour environ 2 bons mangeurs :
 
-* 300g de haricots rouges (les notres sont non salés)
+* 300g de haricots rouges (les nôtres sont non salés)
 * 1 oignon (nouveau, avec le vert, si possible)
-* 2 cc4 (2×15mL) de graînes de lin
+* 2 cc4 (2×15mL) de graines de lin
 * 125g de « [Öncü](https://fr.openfoodfacts.org/produit/8693891196185/öncü-antep-paprikamark-mild) » (purée de poivron, salée à 4g/100g, que l'on trouve au rayon import de notre intermarché, mais cela peut être remplacé probablement du concentré de tomate ou autre)
 * épices (possibilité de varier)
-  * .75 cc1 (0.75×1mL) de paprika (parceque le notre pique beaucoup)
+  * .75 cc1 (0.75×1mL) de paprika (parce que le notre pique beaucoup)
   * 1 cc1 de poivre moulu
   * 2 cc1 cumin
   * 2 cc1 romarin
 * 2 cc4 d'huile
 * 2 cc4 de vin rouge
-* 50g de capres (1/2 pot)
+* 50g de câpres (1/2 pot)
 
-Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-four %}).
+Très bon avec des [frites]({% post_url 2019-08-03-frites-au-four %}).
 
 ### Préparation
 
