@@ -7,7 +7,7 @@ image: tartare-pain-salade.jpg
 short: "Le tartare mais au haricots rouges."
 ---
 
-Une variante de la [v1 aux pois chiches]({% post_url 2020-04-18-tartare-pois-chiche %})
+Une variante de la [v1 aux pois chiches]({{site.baseurl}}{% post_url 2020-04-18-tartare-pois-chiche %})
 (les épices sont un peu différentes aussi).
 
 ### Ingrédients
@@ -27,7 +27,7 @@ Pour environ 2 bons mangeurs :
 * 2 cc4 de vin rouge
 * 50g de câpres (1/2 pot)
 
-Très bon avec des [frites]({% post_url 2019-08-03-frites-au-four %}).
+Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-four %}).
 
 ### Préparation
 

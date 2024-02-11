@@ -13,7 +13,7 @@ NB : 2 ou 3 fois ça, peut rentrer sur la tôle.
 
 - 500g d'amandes (et/ou cajou)
 - 3cc1 de sel
-- ~3cc1 d'épices (optionnel) type [poupoudre]({% post_url 2019-08-03-poudre-d-epices %}) ou du romarin moulu, etc
+- ~3cc1 d'épices (optionnel) type [poupoudre]({{site.baseurl}}{% post_url 2019-08-03-poudre-d-epices %}) ou du romarin moulu, etc
 
 
 #### Préparation

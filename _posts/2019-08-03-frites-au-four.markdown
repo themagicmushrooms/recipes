@@ -11,7 +11,7 @@ short: "Frites au four sans huile"
 
 * Pommes de terre bio
 * Sel
-* 1 c.c Curcurma (ou [poudre d'épice]({% post_url 2019-08-03-poudre-d-epices %}). ou piment d'Espelette, ail, romarin...)
+* 1 c.c Curcurma (ou [poudre d'épice]({{site.baseurl}}{% post_url 2019-08-03-poudre-d-epices %}). ou piment d'Espelette, ail, romarin...)
 
 Example de dosage pour 2/3 gourmands : 1.2kg de patates, 3cc1 de poupoudre, 2cc1 de sel.
 
@@ -29,4 +29,4 @@ Manger rapidement, ~~ce n'est pas très bon une fois refroidi~~... ou pas, c'est
 ### Autre
 
 Très bon avec du houmous
-ou du [« tartare »]({% post_url 2020-04-18-tartare-pois-chiche %}).
+ou du [« tartare »]({{site.baseurl}}{% post_url 2020-04-18-tartare-pois-chiche %}).

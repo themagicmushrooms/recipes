@@ -7,7 +7,7 @@ image: tartare-frites-salade.jpg
 short: "Une sorte de tartare de pois chiche."
 ---
 
-Voir aussi une variante, la [v2 aux haricots rouges]({% post_url 2020-05-01-tartare-haricots-rouges %}).
+Voir aussi une variante, la [v2 aux haricots rouges]({{site.baseurl}}{% post_url 2020-05-01-tartare-haricots-rouges %}).
 
 ### Ingrédients
 
@@ -26,7 +26,7 @@ Pour environ 2 bons mangeurs :
   * 2 cc1 cumin
   * 1 cc1 origan
 
-Très bon avec des [frites]({% post_url 2019-08-03-frites-au-four %}).
+Très bon avec des [frites]({{site.baseurl}}{% post_url 2019-08-03-frites-au-four %}).
 
 ### Préparation
 
