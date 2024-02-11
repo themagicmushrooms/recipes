@@ -3,7 +3,7 @@ layout: post
 title:  "Amandes grillées salées"
 date:   2024-02-08 21:00:00 +0100
 tags: salted wfpb ♥
-image: todo.jpg
+image: amande-cajou-grillees.jpg
 short: "Des amandes/cajou grillées."
 ---
 
