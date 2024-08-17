@@ -41,6 +41,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <li>curcuma: 1.8 à 2.0g</li>
     <li>eau (pour la version solide): exactement 10g</li>
     <li>purée: 20 à 21g (1/6 de sachet de 125g de Saint Éloi purée nature 1kg)</li>
+    </ul>
 </details>
 
 <details>
@@ -54,5 +55,6 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <li>bien tasser, en plusieurs fois a priori</li>
     <li>démouler en enlevant le bouchon et en poussant de l'autre coté avec une pièce de 1€ et en s'aidant d'un manche de couteau</li>
     <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide (s'il est mou/s'affaisse, trop d'eau, s'il s'éffrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
+    </ul>
 </details>
 
