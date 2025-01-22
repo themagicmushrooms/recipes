@@ -76,5 +76,8 @@ also available at https://dl.heeere.com/food-good.epub
 ~~~
 # e.g.
 convert '/home/.../DSC_0701.JPG' -resize 512 assets/tempeh-marine-saucisses.jpg
+
+convert /home/.../xz2/IMG_20241124_191446.jpg -gravity center -crop 512:384 -resize 512 assets/biscuits-saucisson-amande.jpg
+
 ~~~
 
