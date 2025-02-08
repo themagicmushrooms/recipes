@@ -58,3 +58,30 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     </ul>
 </details>
 
+# Version 2024 (+ malto) (S: en plus pour la version solide)
+
+- 50g sucre
+- 50g malto
+- sels et épices comme avant
+    - 1.5-1.56 sel
+    - 0.7-0.9 nigari
+    - 0.55-0.7 bicarb
+    - 0.5-1.1 gimgembre
+    - 0.95-1.1 curcuma
+- S: 20g purée (moulue)
+- S: 22g de jus de citron vert (pas plus)
+- S: mélanger citron+sels+épices + sucre + purée+malto, à la fourchette, puis faire des cylindres 
+
+
+<details>
+    <summary>version solide (2×220kcal)</summary>
+    <ul>
+    <li>mettre sel/bicarbonate/nigari/épices</li>
+    <li>mettre 21g à 22g de citron vert<li>
+    <li>mélanger avec le sucre pour avoir une pate assez liquide</li>
+    <li>ajouter la purée et la malto et l'intégrer au tout avec une fourchette</li>
+    <li>former à la main, le plus simple étant de faire 2 cylindres par dose</li>
+    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide (s'il est mou/s'affaisse, trop d'eau, s'il s'éffrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
+    </ul>
+</details>
+
