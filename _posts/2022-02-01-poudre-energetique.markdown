@@ -54,9 +54,10 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <li>pousser tout ça dans le moule, avec une baguette à l'envers, le moule étant un tube de dentifrice avec un bouchons au bout, bouchon de bouteille dont le goulot sert d'entonnoir</li>
     <li>bien tasser, en plusieurs fois a priori</li>
     <li>démouler en enlevant le bouchon et en poussant de l'autre coté avec une pièce de 1€ et en s'aidant d'un manche de couteau</li>
-    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide (s'il est mou/s'affaisse, trop d'eau, s'il s'éffrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
+    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide, s'il est mou/s'affaisse, trop d'eau, s'il s'effrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
     </ul>
 </details>
+
 
 # Version 2024 (+ malto) (S: en plus pour la version solide)
 
@@ -72,7 +73,6 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
 - S: 22g de jus de citron vert (pas plus)
 - S: mélanger citron+sels+épices + sucre + purée+malto, à la fourchette, puis faire des cylindres 
 
-
 <details>
     <summary>version solide (2×220kcal)</summary>
     <ul>
@@ -81,7 +81,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <li>mélanger avec le sucre pour avoir une pate assez liquide</li>
     <li>ajouter la purée et la malto et l'intégrer au tout avec une fourchette</li>
     <li>former à la main, le plus simple étant de faire 2 cylindres par dose</li>
-    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide (s'il est mou/s'affaisse, trop d'eau, s'il s'éffrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
+    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide, s'il est mou/s'affaisse, trop d'eau, s'il s'effrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
     </ul>
 </details>
 
