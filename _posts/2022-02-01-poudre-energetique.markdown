@@ -13,7 +13,7 @@ La « poupoudre » pour une flasque de 500mL à 600mL.
 # Version 2021
 
 - 4 cc4 (rases) de sucre complet re-moulu = 37g soit environ 150kcal
-- 1 cc1 de gigembre
+- 1 cc1 de gingembre
 - 1/2 cc1 de sel
 - 1/2 cc1 de nigari (sel de magnésium)
 - 1/2 cc1 de bicarbonate
@@ -22,13 +22,13 @@ La « poupoudre » pour une flasque de 500mL à 600mL.
 
 - 4 cc4 (rases) de sucre complet re-moulu = 37g soit environ 150kcal  (50% glucose / 50% fructose)
 - 4 cc4 de purée (moulue) = 20g soit environ 60kcal (100% glucose)
-- 1 cc1 de gigembre
+- 1 cc1 de gingembre
 - 2 cc1 de curcuma
 - 1/2 cc1 de sel
 - 1/2 cc1 de nigari (sel de magnésium)
 - 1/2 cc1 de bicarbonate
 
-Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une version solide.
+Avec ~15ml d'eau, ça donne une version compactable pour séchage vers une version solide.
 
 <details>
     <summary>grammages « précis »</summary>
@@ -37,7 +37,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <li>sel: 1.0 à 1.3 g</li>
     <li>bicarbonate: 0.8 à 1.0g</li>
     <li>nigari: 0.8 à 1.0 à 1.1g</li>
-    <li>gimgembre: 0.8 à 1.0 à 1.0g</li>
+    <li>gingembre: 0.8 à 1.0 à 1.0g</li>
     <li>curcuma: 1.8 à 2.0g</li>
     <li>eau (pour la version solide): exactement 10g</li>
     <li>purée: 20 à 21g (1/6 de sachet de 125g de Saint Éloi purée nature 1kg)</li>
@@ -48,7 +48,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
     <summary>version solide</summary>
     <ul>
     <li>mettre sucre/sel/bicarbonate/nigari/épices</li>
-    <li>mettre exactement 10g d'eau (8g c'est pas assez 12g c'est trop)<li>
+    <li>mettre exactement 10g d'eau (8g c'est pas assez 12g c'est trop)</li>
     <li>mélanger pour avoir une pate assez liquide</li>
     <li>ajouter la purée et l'intégrer au tout avec une fourchette</li>
     <li>pousser tout ça dans le moule, avec une baguette à l'envers, le moule étant un tube de dentifrice avec un bouchons au bout, bouchon de bouteille dont le goulot sert d'entonnoir</li>
@@ -59,25 +59,25 @@ Avec ~15ml d'eau, ça donne une version compactable pour sechage vers une versio
 </details>
 
 
-# Version 2024 (+ malto) (S: en plus pour la version solide)
+# Version 2024 (2023 + malto, objectif 400kcal)
 
 - 50g sucre
-- 50g malto
+- 50g maltodextrine
 - sels et épices comme avant
     - 1.5-1.56 sel
     - 0.7-0.9 nigari
     - 0.55-0.7 bicarb
-    - 0.5-1.1 gimgembre
+    - 0.5-1.1 gingembre
     - 0.95-1.1 curcuma
-- S: 20g purée (moulue)
-- S: 22g de jus de citron vert (pas plus)
-- S: mélanger citron+sels+épices + sucre + purée+malto, à la fourchette, puis faire des cylindres 
+- en plus, surtout pour la version solide
+    - 20g purée (moulue)
+    - 22g de jus de citron vert (pas plus)
 
 <details>
     <summary>version solide (2×220kcal)</summary>
     <ul>
     <li>mettre sel/bicarbonate/nigari/épices</li>
-    <li>mettre 21g à 22g de citron vert<li>
+    <li>mettre 21g à 22g de citron vert</li>
     <li>mélanger avec le sucre pour avoir une pate assez liquide</li>
     <li>ajouter la purée et la malto et l'intégrer au tout avec une fourchette</li>
     <li>former à la main, le plus simple étant de faire 2 cylindres par dose</li>
