@@ -74,7 +74,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour séchage vers une versi
     - 22g de jus de citron vert (pas plus)
 
 <details>
-    <summary>version solide (7×70g (env 230kcal), 1x50g (env 165kcal))</summary>
+    <summary>version solide 2025+ (7×70g (env 230kcal), 1x50g (env 165kcal))</summary>
     <ul>
     <li>malto 200g</li>
     <li>sucre 200g</li>
