@@ -74,14 +74,25 @@ Avec ~15ml d'eau, ça donne une version compactable pour séchage vers une versi
     - 22g de jus de citron vert (pas plus)
 
 <details>
-    <summary>version solide (2×220kcal)</summary>
+    <summary>version solide (7×70g (env 230kcal), 1x50g (env 165kcal))</summary>
     <ul>
-    <li>mettre sel/bicarbonate/nigari/épices</li>
-    <li>mettre 21g à 22g de citron vert</li>
-    <li>mélanger avec le sucre pour avoir une pate assez liquide</li>
-    <li>ajouter la purée et la malto et l'intégrer au tout avec une fourchette</li>
-    <li>former à la main, le plus simple étant de faire 2 cylindres par dose</li>
-    <li>si c'est la bonne hydratation et bien tassé, ça fait un cylindre relativement solide, s'il est mou/s'affaisse, trop d'eau, s'il s'effrite/se casse, pas assez d'eau (ou pas assez tassé)</li>
+    <li>malto 200g</li>
+    <li>sucre 200g</li>
+    <li>purée moulue 80g</li>
+    <li>mélange</li>
+    <li>...</li>
+    <li>sel 6g</li>
+    <li>bicarb 2.4g</li>
+    <li>gingembre 3.6g</li>
+    <li>curcuma 4.4g</li>
+    <li>nigari 3.2g</li>
+    <li>citron 70g exactement</li>
+    <li>attendre que ça aie moussé</li>
+    <li>...</li>
+    <li>mélanger poudre et liquide</li>
+    <li>attendre un peu, ça aide à prendre</li>
+    <li>tenter de faire des barres de 67.5g (environ 225kcal))</li>
     </ul>
 </details>
+
 
