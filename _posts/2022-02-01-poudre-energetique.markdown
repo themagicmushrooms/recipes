@@ -86,7 +86,7 @@ Avec ~15ml d'eau, ça donne une version compactable pour séchage vers une versi
     <li>gingembre 3.6g</li>
     <li>curcuma 4.4g</li>
     <li>nigari 3.2g</li>
-    <li>citron 70g exactement</li>
+    <li>citron 67g exactement (66 un peu sec, 68 un peu long)</li>
     <li>attendre que ça aie moussé</li>
     <li>...</li>
     <li>mélanger poudre et liquide</li>

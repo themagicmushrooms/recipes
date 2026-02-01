@@ -23,7 +23,7 @@ Mettre dans un saladier et ajouter le cucurma. Saler. Bien mélanger.
 ### Cuisson
 
 Renverser le contenu du saladier dans un moule à tarte anti-adhésif. Secouer un peu pour répartir les frites.
-Cuire 45 minutes au four 200 degrés.
+Cuire au four 20 minutes à 215°C chaleur tournante (ou 45 minutes 200 degrés classique).
 Manger rapidement, ~~ce n'est pas très bon une fois refroidi~~... ou pas, c'est bon aussi un peu après, et même froid.
 
 ### Autre
