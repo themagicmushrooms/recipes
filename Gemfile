@@ -15,6 +15,9 @@ gem "jekyll", "~> 4.3.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
 
+gem "csv"
+gem "base64"
+
 
 # or else I get:
 # $ecipes/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:8:in `require': libruby.so.2.7: cannot open shared object file: No such file or directory - $recipes/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/eventmachine-1.2.7/rubyeventmachine.so (LoadError)

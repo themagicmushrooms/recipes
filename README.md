@@ -24,7 +24,9 @@ Then pushed on github, set master as the github-pages branch (on github, in repo
 
 ~~~
 #rm -rf vendor/
-#bundle install --path vendor/bundle
+#sudo pacman -S ruby-erb
+#bundle config set path 'vendor/bundle'
+bundle install
 bundle exec jekyll serve -l
 ~~~
 
