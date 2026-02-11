@@ -2,7 +2,7 @@
 layout: post
 title:  "La ratatarte végé"
 date:   2024-02-08 21:00:00 +0100
-tags: salted wfpb ♥
+tags: salted wfpb
 image: ratatarte.jpg
 short: "Une tarte végé pour fainéant."
 ---

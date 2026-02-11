@@ -2,7 +2,7 @@
 layout: post
 title:  "Tartinades légumes / pois chiches"
 date:   2020-02-01 19:13:00 +0200
-tags: salted wfpb ♥
+tags: salted wfpb
 image: tartinade-legumes.jpg
 short: "Tartinade de légumes à la farine de pois chiches"
 ---

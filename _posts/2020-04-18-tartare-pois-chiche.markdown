@@ -2,7 +2,7 @@
 layout: post
 title:  "Tartare Improvisé v1"
 date:   2020-04-18 13:31:00 +0200
-tags: salted wfpb ♥
+tags: salted wfp
 image: tartare-frites-salade.jpg
 short: "Une sorte de tartare de pois chiche."
 ---

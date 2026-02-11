@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico de Gallo"
 date:   2020-04-13 10:13:00 +0200
-tags: salted wfpb ♥ apero
+tags: salted wfpb apero
 image: pico-de-gallo-2.jpg
 short: "Sauce tomate oignons pour tremper des tortillas à nachos à l'apéro"
 ---

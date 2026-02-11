@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Focaccia"
+date:   2026-02-11 08:00:00 +0200
+tags: salted ♥
+image: focaccia-1.jpg
+short: "Une focaccia facile (pétrie à la machine), avec des idées de variantes."
+---
+
+### Ingrédients
+
+Pour 4 parts.
+
+La pate
+
+* 240mL d'eau
+* 6g de sel
+* 150g de semoule de blé dur (et/ou polenta)
+* 250g de farine mi-complète
+* une dose de levure (14g frais, ou sachet)
+* un peu d'huile pour le moule
+
+Idées de garnitures
+
+* 40g de chorizo
+* 1/2 oignon rouge
+* 10 olives
+* poivrons ou choux de bruxelle (200g)
+* autre ?
+    * champignons
+
+### Préparation et Cuisson
+
+* Faire la pate à la machine à pain.
+* Huiler le moule avec un peu d'huile.
+* Préchauffer le four à 225°C tournant.
+* Verser la pate et applanir avec le bout des doigts.
+* Ajouter la garniture.
+* Cuire au four pendant 17 minutes.

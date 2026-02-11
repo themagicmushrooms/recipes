@@ -2,7 +2,7 @@
 layout: post
 title:  "Houmous en Masse v1"
 date:   2022-02-19 12:00:00 +0100
-tags: salted wfpb ♥
+tags: salted wfp
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hummus_from_The_Nile.jpg/640px-Hummus_from_The_Nile.jpg
 short: "Les proportions pour du houmous."
 ---
