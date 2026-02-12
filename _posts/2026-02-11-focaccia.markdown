@@ -25,7 +25,7 @@ Idées de garnitures
 * 40g de chorizo
 * 1/2 oignon rouge
 * 10 olives
-* poivrons ou choux de bruxelle (200g)
+* poivrons ou choux de Bruxelles (200g)
 * autre ?
     * champignons
 
@@ -37,3 +37,15 @@ Idées de garnitures
 * Verser la pate et applanir avec le bout des doigts.
 * Ajouter la garniture.
 * Cuire au four pendant 17 minutes.
+
+### Gallerie
+
+Poivrons
+
+![avant](/recipes/assets/focaccia-2.jpg)
+![après](/recipes/assets/focaccia-3.jpg)
+
+Choux de Bruxelles
+
+![avant](/recipes/assets/focaccia-4.jpg)
+![après](/recipes/assets/focaccia-5.jpg)
