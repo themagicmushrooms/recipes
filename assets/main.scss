@@ -43,6 +43,7 @@
 
   .onlyselected & {
       p { display: none; }
+      overflow: hidden;
   }
 
 }
