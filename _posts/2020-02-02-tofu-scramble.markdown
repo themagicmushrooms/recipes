@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Champignons et Tofu Fumé Scramble"
+title:  "Champignons et Tofu Scramble"
 date:   2020-02-02 09:27:00 +0200
 tags: salted wfpb ♥
 image: tofu-scramble.jpg
-short: "Poellée de champignon/carottes avec du tofu fumé scramble, aux épices."
+short: "Poellée de champignon/carottes avec du tofu scramble, aux épices."
 ---
 
 ### Ingrédients
 
 Pour deux personnes
 
-* 2 bloc(s) de tofu fumé
+* 2 bloc(s) de tofu (fumé ou pas, mais ferme)
 * 1 oignon
 * 2 poignées de champignons et/ou carottes
 * 1cc2 poudre de bouillon (2.5ml)
